@@ -1,3 +1,6 @@
+# This is just a plain fork from https://github.com/JimmyCushnie/Noisy-Nodes to make sure this stays offline....
+
+
 # Noisy Nodes
 Adds various noise-generation nodes to Unity Shader Graph, including 3D noise nodes.
 
