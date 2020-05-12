@@ -21,4 +21,4 @@ All of the fancy parts of this library come from [Noise Shader](https://github.c
 
 Download the whole repo and stick it in your project's `Assets` folder.
 
-Alternatively, Noisy Nodes can be installed via the Unity Package Manager. In the top left of the `Packages` window, navigate to `Add Package -> Add package from git URL` and paste `https://github.com/JimmyCushnie/Noisy-Nodes.git`.
+Alternatively, Noisy Nodes can be installed via the Unity Package Manager. In the top left of the `Packages` window, navigate to `Add Package -> Add package from git URL` and paste `https://github.com/HebelHuber/Noisy-Nodes.git`.
